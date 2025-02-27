@@ -39,3 +39,14 @@ Here you will see how the text changes as per the functionality of the spoke:
 
 ![touchofapirate8](https://github.com/user-attachments/assets/9e269ff8-1967-4e5a-9be3-58422ad2d7c4)
 
+
+Steps to publish this application:
+
+    In Application Navigation, search for "update sets".
+    Then go to: System Update Sets -> Retrieved Update Sets.
+    Scroll to the bottom and click on "Import Update Set from XML".
+    Browse for the file in this repository and upload.
+    You will see "Touch of a Pirate" in the list view of records now, click on the application in "Name" column.
+    On top-right, click on "Preview Update Set", once it finishes and reaches 100%, click on "Close".
+    A new option will be available on top-right as "Commit Update Set", click on it and your application will be installed and available as a spoke which can be utilized in Flow Designer as shown in above pictures.
+
