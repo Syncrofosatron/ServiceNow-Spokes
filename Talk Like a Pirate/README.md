@@ -13,8 +13,11 @@ You can utilize this by following the tutorial as shown.
 ![touchofapirate3](https://github.com/user-attachments/assets/dccfa443-2298-485e-84dd-b14043355fce)
 
 As a whole, it will look like this:
+
 ![touchofapirate](https://github.com/user-attachments/assets/2c80c4af-5710-4c16-b895-cc97c4e4780e)
 
+
+Here you will see how the text changes as per the functionality of the spoke:
 
 ![touchofapirate4](https://github.com/user-attachments/assets/f8ca4f63-9618-4594-9dbb-3b380b755ed1)
 
